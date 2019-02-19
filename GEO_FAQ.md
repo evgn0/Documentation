@@ -1,16 +1,16 @@
 ### General
 
 **1. What is GEO?**
-GEO is a p2p transfer protocol for the decentralized network of assets
+The GEO is a P2P transfer protocol for the decentralized network of assets.
 
 **2. What is your goal?**
-Our goal is to create a truly distributed network for transfer values. Just like sending the information within the Internet 
+Our goal is to create a truly distributed network for transfer values. Just like sending the information within the Internet. 
 
 **3. What is your product?**
 The Protocol itself is our main product. We create a framework which enables businesses or developers to run their applications and ecosystems, as well as to connect to already existing networks of other applications which use different values (blockchains, local currency network etc). GEO Protocol is able to ensure secure, fast and cost-free transactions within the network. Moreover, it enables users to exchange with different cross-units (equivalents) and guarantees cyclic clearing.
 
-**4. What problem does GEO solve?**
-GEO Protocol solution is based on 2 main ideas which in short can be described as follows:
+**4. What problem does the GEO solve?**
+The GEO Protocol solution is based on 2 main ideas which in short can be described as follows:
 
 *Idea 1:* Creation of the network that can connect not only existing blockchain ecosystems but also the traditional finance ecosystem. It will solve the problem of [interoperability](https://hackernoon.com/the-need-for-layer-3-on-the-internet-of-value-85ae3ab2a9ea)
 
